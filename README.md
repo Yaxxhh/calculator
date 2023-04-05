@@ -15,5 +15,4 @@ CSS,
 JAVASCRIPT, 
 LOVE(obvious)
 # SCREENSHOT
-<img width="440" alt="2023-04-05" src="https://user-images.githubusercontent.com/127377363/230011698-58b8c1d6-ebc1-4941-bddc-6f9b7655f672.png">
-
+<img width="484" alt="2023-04-05 (1)" src="https://user-images.githubusercontent.com/127377363/230027201-591d23a1-3af8-4f08-a71c-a9c53a5fc05d.png">
