@@ -55,3 +55,10 @@ button{
 .opr{
     color: green;
 }
+#about{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    position: center;
+}
